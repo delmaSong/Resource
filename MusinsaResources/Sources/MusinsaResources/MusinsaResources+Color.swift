@@ -1,5 +1,5 @@
 //
-//  Resource+Color.swift
+//  MusinsaResources+Color.swift
 //  
 //
 //  Created by Delma Song on 2023/02/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-public extension Resource {
+public extension MusinsaResources {
     enum Color {
         // MARK: - GrayScale
         public static let white = UIColor(named: "white", in: .module, compatibleWith: nil)!

@@ -1,5 +1,5 @@
 //
-//  Resource+Font.swift
+//  MusinsaResources+Font.swift
 //  
 //
 //  Created by Delma Song on 2023/02/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-public extension Resource {
+public extension MusinsaResources {
     enum Font {
         // MARK: - Header
         public static let header1 = UIFont.systemFont(ofSize: 32, weight: .bold)
